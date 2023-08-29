@@ -1,16 +1,20 @@
-# 배준수 (Bae Junsu)
+## 배준수 (Bae Junsu)
 
-📅 **생년월일:** 1994년 4월 11일  
-💼 **포지션:** 백엔드 개발자  
-📚 **공부 시작:** 2023년 01월  
-🎓 **학력:** SW 사관학교 정글 6기 수료
+### 1994년 4월 11일  
+### 백엔드 개발자 (2023.01 ~ )  
+### 고려대학교 식품영양학과 졸업  
+### SW 사관학교 정글 6기 수료
 
 ## 🛠 기술 스택
 
-- **언어:** Python, Javascript, Typescript
-- **프레임워크/라이브러리:** Node.js, Express
-- **데이터베이스:** MongoDB
-- **도구:** Git, AWS EC2
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 
 ## 🌐 연락처
 
