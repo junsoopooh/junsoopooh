@@ -1,25 +1,9 @@
 # 배준수
 
-<details>
-<summary>
-  About Me
-</summary>
-   
-### 1994.04.11  
-### 백엔드 개발자 (2023.01 ~ )  
-### 고려대학교 식품영양학과 졸업  
-### [카이스트 비학위 연수과정](https://swjungle.net/)  
-### SW 사관학교 정글 6기 수료
-
-</details>
-
-## 📊 Profiles
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsoopooh&count_bg=%23000000&title_bg=%23A31515&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjunsoopooh.github.io&count_bg=%23000000&title_bg=%234C9BFD&icon=hackhands.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![https://solved.ac/profile/junsoopooh](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsoopooh)](https://solved.ac/junsoopooh)
-
 [![Importunate's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsoopooh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=junsoopooh&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
