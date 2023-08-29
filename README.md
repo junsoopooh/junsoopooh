@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-#181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 
 ## 🌐 Contact
    
