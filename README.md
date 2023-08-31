@@ -22,6 +22,6 @@
 
 ## 🌐 Contact
    
-- 🪪 [LinkedIn](https://www.linkedin.com/in/junsu-594122277/)
+- 🪪 LinkedIn : [junsoopooh](https://www.linkedin.com/in/junsu-594122277/)
 - 📧 Email: junsoopooh@naver.com
 - 📝 Blog: [junsoopooh.github.io](https://junsoopooh.github.io)
