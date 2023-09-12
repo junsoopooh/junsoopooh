@@ -4,7 +4,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjunsoopooh.github.io&count_bg=%23000000&title_bg=%234C9BFD&icon=hackhands.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![https://solved.ac/profile/junsoopooh](http://mazassumnida.wtf/api/v2/generate_badge?boj=junsoopooh)](https://solved.ac/junsoopooh)
-[![Importunate's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsoopooh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills & Tools
 
