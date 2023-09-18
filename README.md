@@ -4,7 +4,7 @@
 
 <a href="https://junsoopooh.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junsu-594122277/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:junsoopooh@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="mailto:junsoopooh@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-4C9BFD?style=flat-square&logo=naver&logoColor=white"/></a>
 
 </div>
 
