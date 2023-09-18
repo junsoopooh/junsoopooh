@@ -1,4 +1,12 @@
+<div align="center">
+
 # 배준수
+
+🪪 LinkedIn : [junsoopooh](https://www.linkedin.com/in/junsu-594122277/)
+📧 Email: junsoopooh@naver.com
+📝 Blog: [junsoopooh.github.io](https://junsoopooh.github.io)
+
+</div>
 
 <div align="right">
   
@@ -29,11 +37,3 @@
 </div>
 
 
-<div align="center">
-## 🌐 Contact
-
-🪪 LinkedIn : [junsoopooh](https://www.linkedin.com/in/junsu-594122277/)
-📧 Email: junsoopooh@naver.com
-📝 Blog: [junsoopooh.github.io](https://junsoopooh.github.io)
-
-</div>
