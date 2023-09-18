@@ -2,9 +2,9 @@
 
 # 배준수
 
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white"/>
+<a href="https://www.linkedin.com/in/junsu-594122277/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="junsoopooh@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+<a href="https://junsoopooh.github.io/"><img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 
 </div>
 
