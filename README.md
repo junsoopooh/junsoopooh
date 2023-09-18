@@ -11,17 +11,16 @@
 ---
 
 <div align="right">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsoopooh&count_bg=%23000000&title_bg=%23A31515&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjunsoopooh.github.io&count_bg=%23000000&title_bg=%234C9BFD&icon=hackhands.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 <a href="https://solved.ac/profile/junsoopooh"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junsoopooh"/></a>
   
 </div>
 
 <div align="left">
-  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsoopooh&count_bg=%23000000&title_bg=%23A31515&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjunsoopooh.github.io&count_bg=%23000000&title_bg=%234C9BFD&icon=hackhands.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br>
