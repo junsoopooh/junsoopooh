@@ -2,9 +2,9 @@
 
 # 배준수
 
-<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=black"/>
-<img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=black"/>
-<img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=githubpages&logoColor=white"/>
 
 </div>
 
