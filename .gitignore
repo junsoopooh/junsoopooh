@@ -1,3 +1,10 @@
-node_mudules
+
 Devcamp/Lecture/Typescript/package-lock.json
 Devcamp/Lecture/Typescript/package.json
+
+Devcamp/**/node_modules
+Devcamp/scratch/package-lock.json
+Devcamp/scratch/package.json
+Devcamp/scratch/tsconfig.json
+
+.gitignore
