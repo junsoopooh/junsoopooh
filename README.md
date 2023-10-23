@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/junsu-594122277/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <br><br>
 ## History
-Korea University(13.03 ~ 22.02)<br>
+Korea University Food Nutrition, Barchelor of Science (13.03 ~ 22.02)<br>
 SW Jungle(23.02 ~ 23.07)
 
 </div>
