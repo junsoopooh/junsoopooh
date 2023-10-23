@@ -5,7 +5,9 @@
 <a href="https://junsoopooh.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-3884FF?style=flat-square&logo=gitbook&logoColor=white"/></a>
 <a href="mailto:junsoopooh@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junsu-594122277/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
+<br><br>
+Korea University(13.03 ~ 22.02)<BR>
+SW Jungle(23.02 ~ 23.07)
 
 </div>
 
